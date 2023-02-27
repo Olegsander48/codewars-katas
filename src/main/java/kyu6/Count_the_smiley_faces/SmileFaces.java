@@ -1,4 +1,4 @@
-package kyu.Count_the_smiley_faces;
+package kyu6.Count_the_smiley_faces;
 
 import java.util.List;
 import java.util.regex.Pattern;
